@@ -34,6 +34,9 @@ module.exports = {
               features: {
                 'developer-website_global-header-gh-buttons': 'on',
                 'developer-website_right-rail-buttons': 'outline',
+                free_account_button_color: {
+                  treatment: 'off',
+                },
               },
               core: {
                 authorizationKey: process.env.SPLITIO_AUTH_KEY || 'localhost',
