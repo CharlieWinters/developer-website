@@ -318,7 +318,7 @@ export const teamMembers = [
       <>
         <p>
           Pachi is a self-directed learner, who started her career as a
-          Front-End developer and is passionate about HTML and CCS. She is
+          Front-End developer and is passionate about HTML and CSS. She is
           originally from Brazil where she was born and raised, but now she
           lives in the USA with her husband, cats and bearded dragon.
         </p>
